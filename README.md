@@ -10,7 +10,7 @@ Como parte de las primeras dos semanas del Bootcamp, se nos ha pedido que utilic
 
 ## Planteamiento del problema. 
 
-El código debe de elegir un número, entre 0 y 10, al azar. Posteriormente, el usuario debe de adivinar dicho número y escribirlo en el input. Tiene tres intentos para acertar de lo contrario, pierde. 
+El código debe de elegir un número, entre 0 y 10, al azar. Posteriormente, el usuario debe de adivinar dicho número y escribirlo en el input. Tiene tres intentos para acertar, de lo contrario, pierde. 
 
 
 
